@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d56b4ae-0924-4452-97ae-6044d7802c6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vReHZjQGcGmTmVtzPEVkOTVE3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.folksdev.account.dto" />
+      <recent name="com.folksdev.account.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.folksdev.account.controller" />
+      <recent name="com.folksdev.account.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountControllerTest.testCreateAccount_whenRequestHasNoCustomerId_shouldReturn400BadRequest">
+    <configuration name="AccountControllerTest.testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.folksdev.account.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.folksdev.account.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.folksdev.account.controller.AccountControllerTest" />
+      <option name="METHOD_NAME" value="testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest.testCreateAccount_whenRequestHasNoCustomerId_shouldReturn400BadRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.folksdev.account.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.folksdev.account.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.folksdev.account.controller.AccountControllerTest" />
+      <option name="METHOD_NAME" value="testCreateAccount_whenRequestHasNoCustomerId_shouldReturn400BadRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.folksdev.account.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile build" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="--target build" />
+          <option name="buildKitEnabled" value="true" />
+          <option name="buildOnly" value="true" />
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountControllerTest.testCreateAccount_whenRequestHasNoCustomerId_shouldReturn400BadRequest" />
+        <item itemvalue="JUnit.AccountControllerTest.testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" />
+        <item itemvalue="Spring Boot.AccountApplication" />
+        <item itemvalue="Docker.Dockerfile build" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d56b4ae-0924-4452-97ae-6044d7802c6d" name="Default Changelist" comment="" />
+      <created>1626529246376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626529246376</updated>
+      <workItem from="1626529248865" duration="782000" />
+      <workItem from="1626530053589" duration="3350000" />
+      <workItem from="1626610569525" duration="1295000" />
+      <workItem from="1627583698104" duration="449000" />
+      <workItem from="1627588508182" duration="1166000" />
+      <workItem from="1627646009614" duration="6392000" />
+      <workItem from="1627987342453" duration="400000" />
+      <workItem from="1627987766629" duration="6391000" />
+      <workItem from="1628091150255" duration="391000" />
+      <workItem from="1628091765822" duration="7223000" />
+      <workItem from="1628101034300" duration="6413000" />
+      <workItem from="1628162622865" duration="856000" />
+      <workItem from="1628164447854" duration="2955000" />
+      <workItem from="1628185601610" duration="2201000" />
+      <workItem from="1628201518191" duration="5300000" />
+      <workItem from="1628243230108" duration="2026000" />
+      <workItem from="1629289147417" duration="2125000" />
+      <workItem from="1629296310236" duration="1376000" />
+      <workItem from="1629652686995" duration="22000" />
+      <workItem from="1629676415378" duration="390000" />
+      <workItem from="1635623761114" duration="75000" />
+      <workItem from="1635623958572" duration="29000" />
+      <workItem from="1635624929881" duration="53000" />
+      <workItem from="1635639547693" duration="699000" />
+      <workItem from="1635731658294" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
